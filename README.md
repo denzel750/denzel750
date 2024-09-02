@@ -1,10 +1,10 @@
-#aqui so passa negão ◾denzel◾
+# aqui so passa negão (la ele)
+
+## ◾denzel◾
 
 
 
 
-
-## Hi there 👋
 
 <!--
 **denzel750/denzel750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
